@@ -1,6 +1,6 @@
 # alurapic
 
-> A Vue.js project
+> A Vue.js project to study this framework
 
 ## Build Setup
 
